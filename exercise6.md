@@ -1,1 +1,0 @@
-This is an exercise to rename and delete a file on GitHub.
